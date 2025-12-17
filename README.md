@@ -13,7 +13,7 @@ I began my professional journey as a **freelance photographer**, working on **ev
 
 Throughout my academic journey, I developed a growing passion for **programming**, an area I find intellectually challenging and highly motivating. My primary career objective is to pursue opportunities in **software development**, while remaining open to roles in **graphic design** and **multimedia**, where I also have solid experience.
 
-I am currently focused on exploring **Artificial Intelligence tools applied to creative workflows**, including:
+I am currently exploring **Artificial Intelligence tools applied to creative workflows**, including:
 - **Text-to-Image**
 - **Image-to-Image**
 - **Text-to-Video**
